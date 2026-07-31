@@ -181,7 +181,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vemula20262&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vemula20262&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
