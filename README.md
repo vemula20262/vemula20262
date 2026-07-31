@@ -15,9 +15,8 @@
 ## 👨‍💻 About Me
 
 - 🎓 **MS Computer Science** @ Arizona State University
-- 🏛️ **B.Tech ECE** @ Indraprastha Institute of Information Technology, Delhi (CGPA: 7.88)
+- 🏛️ **B.Tech ECE** @ Indraprastha Institute of Information Technology, Delhi 
 - 🛠️ Focused on **backend engineering, cloud infrastructure, and AI-powered applications**
-- ☁️ **CSE 546 Cloud Computing** — 100/100 on all projects (EC2, Lambda, SQS, IoT Core)
 - 🏆 **HackASU 2026** — Built InterviewCoach AI (Claude Builder Club, Track 3)
 - 📫 **vemulathusharreddy@gmail.com**
 
